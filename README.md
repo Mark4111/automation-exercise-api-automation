@@ -1,3 +1,8 @@
+![Java](https://img.shields.io/badge/Java-17-orange)
+![TestNG](https://img.shields.io/badge/TestNG-Framework-red)
+![RestAssured](https://img.shields.io/badge/RestAssured-API_Testing-green)
+![Allure](https://img.shields.io/badge/Allure-Reporting-blue)
+![Maven](https://img.shields.io/badge/Maven-Build_Tool-purple)
 # Automation Exercise API Automation Framework
 
 ## Table of Contents
