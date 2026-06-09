@@ -1,6 +1,6 @@
-# 🚀 Automation Exercise API Automation Project
+# Automation Exercise API Automation Project
 
-## 📌 Overview
+## Overview
 
 This project is an API Automation Framework developed for the APIs available on Automation Exercise.
 
@@ -14,7 +14,7 @@ The framework validates all 14 API test cases provided by the website using Rest
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 | Technology | Purpose |
 |------------|----------|
@@ -28,7 +28,7 @@ The framework validates all 14 API test cases provided by the website using Rest
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 ```text
 src
@@ -53,7 +53,7 @@ src
 
 ---
 
-## ✅ Covered APIs
+## Covered APIs
 
 | API | Description |
 |------|------------|
@@ -74,7 +74,7 @@ src
 
 ---
 
-## 🔄 Account Lifecycle Scenario
+## Account Lifecycle Scenario
 
 The framework validates a complete user lifecycle:
 
@@ -90,7 +90,7 @@ Delete Account
 
 ---
 
-## 📄 Test Data Management
+## Test Data Management
 
 Request bodies and expected results are stored externally in JSON files.
 
@@ -109,7 +109,7 @@ The framework uses Jackson for:
 
 ---
 
-## ⚙️ Configuration Management
+## Configuration Management
 
 All URLs and endpoints are managed through:
 
@@ -128,7 +128,7 @@ getUserDetail=/getUserDetailByEmail
 
 ---
 
-## ▶️ Running Tests
+## Running Tests
 
 Execute all tests:
 
@@ -144,7 +144,7 @@ mvn test
 
 ---
 
-## 📊 Allure Reporting
+## Allure Reporting
 
 Generate report:
 
@@ -166,7 +166,7 @@ allure open allure-report
 
 ---
 
-## 📸 Allure Report
+## Allure Report
 
 Add screenshots here after generating reports.
 
@@ -180,7 +180,7 @@ Add screenshots here after generating reports.
 
 ---
 
-## 🎯 Key Framework Features
+## Key Framework Features
 
 - REST Assured API Testing
 - TestNG Test Management
@@ -194,11 +194,11 @@ Add screenshots here after generating reports.
 
 ---
 
-## 👨‍💻 Author
+## Author
 
 **Mark Hany**
 
 EDGES Software Testing Diploma · API Testing Final Project
-
+Website under test: automationexercise.com · Test cases spec: automationexercise.com/api_list
 GitHub: https://github.com/Mark4111
 LinkedIn: https://www.linkedin.com/in/mark-hany-040110241/
