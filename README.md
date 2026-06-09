@@ -254,9 +254,11 @@ Add screenshots here after generating reports.
 
 **Mark Hany**
 
-EDGES Software Testing Diploma · API Testing Final Project
+QA Automation Engineer
 
-Website under test: [automationexercise.com](https://automationexercise.com) ·
-Test cases spec: [automationexercise.com/api_list](https://automationexercise.com/api_list)
+API Testing Final Project · EDGES Software Testing Diploma
+
+Website Under Test: [automationexercise.com](https://automationexercise.com) ·
+API Documentation: [automationexercise.com/api_list](https://automationexercise.com/api_list)
 
 LinkedIn: [linkedin.com/in/mark-hany](https://www.linkedin.com/in/mark-hany-040110241/)
