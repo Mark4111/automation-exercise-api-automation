@@ -74,9 +74,44 @@ src
 
 ---
 
-## Account Lifecycle Scenario
+## API Execution Flow
 
-The framework validates a complete user lifecycle:
+The automated test suite validates the following API scenarios:
+
+### Products APIs
+
+1. Get All Products List
+2. POST To All Products List (Negative Scenario)
+
+### Brands APIs
+
+3. Get All Brands List
+4. PUT To All Brands List (Negative Scenario)
+
+### Search APIs
+
+5. Search Product
+6. Search Product Without Required Parameter (Negative Scenario)
+
+### Login Verification APIs
+
+7. Verify Login With Valid Credentials
+8. Verify Login Without Email Parameter
+9. DELETE To Verify Login (Negative Scenario)
+10. Verify Login With Invalid Credentials
+
+### Account Management APIs
+
+11. Create User Account
+12. Delete User Account
+13. Update User Account
+14. Get User Details By Email
+
+---
+
+## End-to-End User Lifecycle
+
+The framework validates a complete account lifecycle scenario:
 
 ```text
 Create Account
@@ -87,6 +122,8 @@ Get User Details
       ↓
 Delete Account
 ```
+
+Test data is dynamically generated and shared between related test cases to ensure realistic end-to-end workflow validation.
 
 ---
 
