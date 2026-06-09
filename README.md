@@ -1,5 +1,21 @@
 # Automation Exercise API Automation Project
 
+## 📑 Table of Contents
+
+* [Overview](#-overview)
+* [Tech Stack](#-tech-stack)
+* [Project Structure](#-project-structure)
+* [API Execution Flow](#-api-execution-flow)
+* [End-to-End User Lifecycle](#-end-to-end-user-lifecycle)
+* [Test Data Management](#-test-data-management)
+* [Configuration Management](#-configuration-management)
+* [Running Tests](#-running-tests)
+* [Allure Reporting](#-allure-reporting)
+* [Allure Report Screenshots](#-allure-report-screenshots)
+* [Key Framework Features](#-key-framework-features)
+* [Author](#-author)
+
+
 ## Overview
 
 This project is an API Automation Framework developed for the APIs available on Automation Exercise.
@@ -209,12 +225,13 @@ Add screenshots here after generating reports.
 
 ### Dashboard
 
-![Allure Dashboard](<img width="1952" height="931" alt="Screenshot 2026-06-09 210011" src="https://github.com/user-attachments/assets/92382d96-672d-4843-9a8e-921e73244c70" />
-)
+<img width="1952" height="931" alt="Screenshot 2026-06-09 210011" src="https://github.com/user-attachments/assets/92382d96-672d-4843-9a8e-921e73244c70" />
+
 
 ### Suites
 
-![Allure Suites](screenshots/suites.png)
+<img width="1982" height="925" alt="Screenshot 2026-06-09 210110" src="https://github.com/user-attachments/assets/ef2a9080-b571-409c-922b-6e5c4b2ec20b" />
+
 
 ---
 
