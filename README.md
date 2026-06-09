@@ -198,7 +198,7 @@ Add screenshots here after generating reports.
 
 **Mark Hany**
 
-QA Automation Engineer
+EDGES Software Testing Diploma · API Testing Final Project
 
-GitHub: https://github.com/YOUR_USERNAME
-LinkedIn: https://linkedin.com/in/YOUR_PROFILE
+GitHub: https://github.com/Mark4111
+LinkedIn: https://www.linkedin.com/in/mark-hany-040110241/
