@@ -1,19 +1,20 @@
-# Automation Exercise API Automation Project
+# Automation Exercise API Automation Framework
 
-## 📑 Table of Contents
+## Table of Contents
 
-* [Overview](#-overview)
-* [Tech Stack](#-tech-stack)
-* [Project Structure](#-project-structure)
-* [API Execution Flow](#-api-execution-flow)
-* [End-to-End User Lifecycle](#-end-to-end-user-lifecycle)
-* [Test Data Management](#-test-data-management)
-* [Configuration Management](#-configuration-management)
-* [Running Tests](#-running-tests)
-* [Allure Reporting](#-allure-reporting)
-* [Allure Report Screenshots](#-allure-report-screenshots)
-* [Key Framework Features](#-key-framework-features)
-* [Author](#-author)
+- [Overview](#overview)
+- [Tech Stack](#tech-stack)
+- [Project Structure](#project-structure)
+- [Covered APIs](#covered-apis)
+- [API Execution Flow](#api-execution-flow)
+- [End-to-End User Lifecycle](#end-to-end-user-lifecycle)
+- [Test Data Management](#test-data-management)
+- [Configuration Management](#configuration-management)
+- [Running Tests](#running-tests)
+- [Allure Reporting](#allure-reporting)
+- [Allure Report](#allure-report)
+- [Key Framework Features](#key-framework-features)
+- [Author](#author)
 
 
 ## Overview
