@@ -1,0 +1,16 @@
+{
+  "userCreatedMessage": "User created!",
+  "userUpdatedMessage": "User updated!",
+  "accountDeletedMessage": "Account deleted!",
+  "userExistsMessage": "User exists!",
+  "userNotFoundMessage": "User not found!",
+  "methodNotSupportedMessage": "This request method is not supported.",
+  "missingSearchProductMessage": "Bad request, search_product parameter is missing in POST request.",
+  "missingLoginDataMessage": "Bad request, email or password parameter is missing in POST request.",
+
+  "successCode": 200,
+  "createdCode": 201,
+  "notFoundCode": 404,
+  "methodNotAllowedCode": 405,
+  "badRequestCode": 400
+}

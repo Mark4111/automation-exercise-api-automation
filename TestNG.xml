@@ -1,0 +1,22 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Api Automation Project Suite">
+    <test name="Api Tests">
+        <classes>
+            <class name="TestCases.TestCase1"/>
+            <class name="TestCases.TestCase2"/>
+            <class name="TestCases.TestCase3"/>
+            <class name="TestCases.TestCase4"/>
+            <class name="TestCases.TestCase5"/>
+            <class name="TestCases.TestCase6"/>
+            <class name="TestCases.TestCase7"/>
+            <class name="TestCases.TestCase8"/>
+            <class name="TestCases.TestCase9"/>
+            <class name="TestCases.TestCase10"/>
+
+            <class name="TestCases.TestCase11"/>
+            <class name="TestCases.TestCase13"/>
+            <class name="TestCases.TestCase14"/>
+            <class name="TestCases.TestCase12"/>
+        </classes>
+    </test>
+</suite>
