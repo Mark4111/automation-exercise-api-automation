@@ -227,8 +227,6 @@ allure open allure-report
 
 ## Allure Report
 
-Add screenshots here after generating reports.
-
 ### Dashboard
 
 <img width="1952" height="931" alt="Screenshot 2026-06-09 210011" src="https://github.com/user-attachments/assets/92382d96-672d-4843-9a8e-921e73244c70" />
