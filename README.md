@@ -57,7 +57,7 @@ src
 ├── main
 │   ├── java
 │   │   ├── pojo
-│   │   └── utilis
+│   │   └── utils
 │   └── resources
 │       ├── TestData
 │       │   ├── RegisterUser.json
